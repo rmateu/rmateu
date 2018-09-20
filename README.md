@@ -1,2 +1,2 @@
 # rmateu
-Micro.blog mirror repo
+Not anymore. 
